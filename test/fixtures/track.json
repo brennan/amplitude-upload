@@ -1,0 +1,50 @@
+{
+    "timestamp": "2017-01-07T19:36:49.681430",
+    "userId": "f9fa36e6-00f6-4b9a-8a07-4edbbd5b47c8",
+    "version": 2,
+    "context": {
+        "locale": "en-US",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1",
+        "location": {
+            "latitude": 40.2964197,
+            "city": "San Francisco",
+            "speed": 0,
+            "longitude": -76.9411617,
+            "country": "United States"
+        },
+        "timezone": "America/Los_Angeles",
+        "device": {
+            "advertisingId": "d8cc0c91-abbd-4e8b-99ea-56635d248e44",
+            "token": "d1b861fb-dd95-41f0-ba16-6ced306cae5a",
+            "model": "iPhone7,2",
+            "type": "ios",
+            "id": "12886e4a-fc8b-4962-832c-1312a05caad9",
+            "adTrackingEnabled": true,
+            "manufacturer": "Apple"
+        },
+        "ip": "187.231.39.152",
+        "screen": {
+            "width": 320,
+            "density": 2,
+            "height": 568
+        },
+        "os": {
+            "version": "9.1",
+            "name": "iPhone OS"
+        },
+        "library": {
+            "version": 3,
+            "name": "analytics-ios"
+        },
+        "network": {
+            "wifi": false,
+            "carrier": "T-Mobile NL",
+            "cellular": true,
+            "bluetooth": false
+        }
+    },
+    "messageId": "0eab542e-0ba2-4ec3-8933-de047bb0dd18",
+    "query": "thingies",
+    "type": "track",
+    "event": "Products Searched"
+}
