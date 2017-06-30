@@ -6,7 +6,7 @@ var expect = require("chai").expect;
 var should = require("chai").should();
 
 
-var amplitude = new Amplitude("60d7d1cc0bd78f57b7362b70f12bd5b3");
+var amplitude = new Amplitude("YOUR_API_KEY");
 
 describe("Amplitude Upload", function() {
 
