@@ -30,7 +30,7 @@ for (var i = 0; i < data.length; i++) {
 }
 ```
 
-Add your JSON to `events.json`, then type `node app.js` in the command line to iterate through your data. Simply remove the `for` loop if you only want to send a single event.
+Add your JSON to `events.json`, then type `node app.js` in the command line to begin upload. Simply remove the `for` loop if you only want to send a single event.
 
 ### Restrictions
 
@@ -75,6 +75,14 @@ event.productId: data.product_id
 ```
 
 ### Testing
+
+Add your Amplitude API key to the `test.js` file in the `test` folder:
+
+```
+var amplitude = new Amplitude("YOUR_API_KEY");
+```
+
+Then, run your tests:
 
 ```
 npm test
