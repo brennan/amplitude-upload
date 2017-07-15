@@ -1,6 +1,5 @@
 "use strict";
 
-var fs = require("fs");
 var request = require("request");
 var encode = require("urlencode");
 var time = require("unix-time");
