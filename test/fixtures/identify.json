@@ -1,0 +1,51 @@
+{
+    "username": "3b61nwyj",
+    "timestamp": "2017-01-07T19:36:49.886512",
+    "userId": "5766856d-59be-4118-8380-bd7ff6877799",
+    "email": "jguzqoma@definitely_not_a_spammer.internet",
+    "version": 2,
+    "context": {
+        "locale": "en-US",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1",
+        "location": {
+            "latitude": 52.3702,
+            "city": "Amsterdam",
+            "speed": 0,
+            "longitude": 4.8952,
+            "country": "Netherlands"
+        },
+        "timezone": "Europe/Amsterdam",
+        "device": {
+            "advertisingId": "b456c312-18ed-4365-b2a1-c113847fccec",
+            "token": "7643fed3-1b5f-4139-992e-d899193396bb",
+            "model": "iPhone6",
+            "type": "ios",
+            "id": "d1d89da2-cc05-48bd-ab64-9f312a25e382",
+            "adTrackingEnabled": true,
+            "manufacturer": "Apple"
+        },
+        "ip": "3.26.134.62",
+        "screen": {
+            "width": 320,
+            "density": 2,
+            "height": 568
+        },
+        "os": {
+            "version": "8.1.3",
+            "name": "iPhone OS"
+        },
+        "library": {
+            "version": 4,
+            "name": "analytics.js"
+        },
+        "network": {
+            "wifi": false,
+            "carrier": "T-Mobile NL",
+            "cellular": true,
+            "bluetooth": false
+        }
+    },
+    "messageId": "dd1bcc15-b4ba-4d9a-8a43-6b186a9aba2c",
+    "type": "identify",
+    "id": "5766856d-59be-4118-8380-bd7ff6877799"
+}
