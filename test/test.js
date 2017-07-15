@@ -5,7 +5,6 @@ var fixtures = require("./fixtures/index.js");
 var expect = require("chai").expect;
 var should = require("chai").should();
 
-
 var amplitude = new Amplitude("YOUR_API_KEY");
 
 describe("Amplitude Upload", function() {

@@ -2,7 +2,7 @@
 
 var Amplitude = require("./index.js");
 var data = require("./events.json");
-var amplitude = new Amplitude("60d7d1cc0bd78f57b7362b70f12bd5b3");
+var amplitude = new Amplitude("YOUR_API_KEY");
 
 for (var i = 0; i < data.length; i++) {
 
